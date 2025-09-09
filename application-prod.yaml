@@ -1,0 +1,9 @@
+payment:
+  provider: visa
+  cards:
+    - name: visa
+      description: "Prod Visa Card"
+      limit: 2500
+    - name: amex
+      description: "Prod Amex Card"
+      limit: 1600
